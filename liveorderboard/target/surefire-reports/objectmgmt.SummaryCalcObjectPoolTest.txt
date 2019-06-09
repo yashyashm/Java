@@ -1,0 +1,13 @@
+-------------------------------------------------------------------------------
+Test set: objectmgmt.SummaryCalcObjectPoolTest
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 3, Errors: 0, Skipped: 0, Time elapsed: 0.002 sec <<< FAILURE!
+putSummaryCalcObject(objectmgmt.SummaryCalcObjectPoolTest)  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.AssertionError
+	at objectmgmt.SummaryCalcObjectPoolTest.putSummaryCalcObject(SummaryCalcObjectPoolTest.java:53)
+getSummaryCalcObject(objectmgmt.SummaryCalcObjectPoolTest)  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.AssertionError
+	at objectmgmt.SummaryCalcObjectPoolTest.getSummaryCalcObject(SummaryCalcObjectPoolTest.java:39)
+startCreatingSummaryObjects(objectmgmt.SummaryCalcObjectPoolTest)  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.AssertionError
+	at objectmgmt.SummaryCalcObjectPoolTest.startCreatingSummaryObjects(SummaryCalcObjectPoolTest.java:33)
